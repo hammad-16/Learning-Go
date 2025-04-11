@@ -27,6 +27,8 @@ func main() {
 
 	s := fmt.Sprintf("I am %v years old", 22)
 	fmt.Println(s)
+	//Similarly interpolate using %s, %v, %d, %.2f, %f
+	
 
 }
 
